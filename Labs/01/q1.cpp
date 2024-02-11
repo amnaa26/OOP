@@ -1,7 +1,8 @@
 /*
-	Programmer: Amna(23K-0066)
-	
-	Q1. Write a C++ program to check whether a given number is prime or not. Allow the user to input a number and display whether it's prime or not?
+
+Creator: Amna(23K-0066)
+Q1. Write a C++ program to check whether a given number is prime or not. Allow the user to input a number and display whether it's prime or not?
+
 */
 
 #include<iostream>
