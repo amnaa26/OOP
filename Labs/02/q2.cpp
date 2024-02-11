@@ -1,12 +1,12 @@
 /*
-	Programmer: Amna(23K-0066)
-	Question: Envision that you’re assigned to create a program to handle a library’s book inventory. Each book has characteristics 
-			  such as title, author, year of publication, and genre. 
-			  Construct a struct that accurately depicts a book as an entity in the real world. Then, using a programming C++, write a 
-			  basic program that uses this struct to demonstrate the creation, modification, and display of book data.
-			  1. Expand the program to manage an array of multiple books.
-			  2. Develop a function to find a book by its title or author.
-			  3. Enable the user to interactively input new books and update existing book data.
+Programmer: Amna(23K-0066)
+Question: Envision that youâ€™re assigned to create a program to handle a libraryâ€™s book inventory. Each book has characteristics 
+	  such as title, author, year of publication, and genre. 
+	  Construct a struct that accurately depicts a book as an entity in the real world. Then, using a programming C++, write a 
+	  basic program that uses this struct to demonstrate the creation, modification, and display of book data.
+		 1. Expand the program to manage an array of multiple books.
+		 2. Develop a function to find a book by its title or author.
+		 3. Enable the user to interactively input new books and update existing book data.
 */
 
 #include <iostream>
