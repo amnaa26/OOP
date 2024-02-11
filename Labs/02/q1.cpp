@@ -1,7 +1,7 @@
 /*
-	Programmer: Amna(23K-0066)
-	Question: Your assignment is to develop a C++ function that interchanges the values of two variables.
-			  Construct a recursive function called recursiveSwap that accepts two variables as arguments and swaps their values recursively.
+Programmer: Amna(23K-0066)
+Question: Your assignment is to develop a C++ function that interchanges the values of two variables.
+	  Construct a recursive function called recursiveSwap that accepts two variables as arguments and swaps their values recursively.
 */
 
 
