@@ -1,11 +1,8 @@
 /*
-	Programmer: Amna(23K-0066)
-	Question: You’re given an integer array and a target sum. Your job is to write a recursive function in C++ that checks if 
-			  there’s a subset of the array whose elements sum up to the target sum. 
-			  • Develop a recursive function named hasSubsetSum that accepts an integer array, the array’s size, and a target 
-			  	sum as input and returns a boolean indicating whether a subset with the specified sum exists. 
-			  • The function should have the following signature:
-				bool hasSubsetSum(int arr[], int size, int targetSum).
+Programmer: Amna(23K-0066)
+Question: Youâ€™re given an integer array and a target sum. Your job is to write a recursive function in C++ that checks if thereâ€™s a subset of the array whose elements sum up to the target sum. 
+	  â€¢ Develop a recursive function named hasSubsetSum that accepts an integer array, the arrayâ€™s size, and a target sum as input and returns a boolean indicating whether a subset with the specified sum exists. 
+	  â€¢ The function should have the following signature: bool hasSubsetSum(int arr[], int size, int targetSum).
 */
 
 #include <iostream>
