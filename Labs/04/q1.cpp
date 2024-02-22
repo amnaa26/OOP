@@ -1,4 +1,4 @@
-*
+/*
  * Programmer: Amna(23k - 0066)
  * Date: 15/02/2024
  * Desc: Construct a class representing a Book, encompassing attributes like name, author, ISBN number, and total page count, 
