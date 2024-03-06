@@ -1,15 +1,15 @@
 /*
  * Creator: Amna(23k-0066)
  * Desc: Create a class called Square with the following attributes:
-			• sideLength – float variable
-			• area – float variable
-			• allareas – static float variable
-		 Create the following methods for your class:
-			• Constructors (default and parameterized (only takes sideLength as input))
-			• Function to calculate area, the calculated area should always be added to the all areas variable each time an area is calculated. (assume it’s called only once for each object)
-			• Getters and Setters for all variables
-		 In your main function create 3 Squares with different sideLength. Call the area method for each of those Square objects. 
-		 After each time the area method is called, call that square’s getters for area and allareas to display the updated values.	
+		â€¢ sideLength â€“ float variable
+		â€¢ area â€“ float variable
+		â€¢ allareas â€“ static float variable
+	 Create the following methods for your class:
+		â€¢ Constructors (default and parameterized (only takes sideLength as input))
+		â€¢ Function to calculate area, the calculated area should always be added to the all areas variable each time an area is calculated. (assume itâ€™s called only once for each object)
+		â€¢ Getters and Setters for all variables
+	 In your main function create 3 Squares with different sideLength. Call the area method for each of those Square objects. 
+	 After each time the area method is called, call that squareâ€™s getters for area and allareas to display the updated values.	
 */
 
 #include <iostream>
