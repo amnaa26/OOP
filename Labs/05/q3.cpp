@@ -1,10 +1,10 @@
 /*
  * Creator: Amna(23k-0066)
  * Desc: Create a class called ValidateString. The purpose of this class will be check if the given characters in a string are alphabet only. 
-		 Numbers and symbols will mean that the string is invalid. 
-		 By using a parameterized constructor, create multiple objects for your class that accept different strings. 
-		 Create a constant function that checks whether the string variable is valid or not.
-		 What happens if you do not make your function constant? Add a comment right above your function explaining why we make a function constant.
+	 Numbers and symbols will mean that the string is invalid. 
+	 By using a parameterized constructor, create multiple objects for your class that accept different strings. 
+	 Create a constant function that checks whether the string variable is valid or not.
+	 What happens if you do not make your function constant? Add a comment right above your function explaining why we make a function constant.
 */
 
 #include <iostream>
