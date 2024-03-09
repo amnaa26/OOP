@@ -1,7 +1,7 @@
 /*
  * Creator: Amna(23k-0066)
  * Desc: Create a BankAccount class. Which contains following details and functionalties:
-		 Attributes: The BankAccount class has three private member variables: accountNumber, accountHolderName, and balance.
+	 Attributes: The BankAccount class has three private member variables: accountNumber, accountHolderName, and balance.
 	 Create Constructor: The class has a constructor that takes parameters to initialize the account details (accountNumber, accountHolderName, and balance).
 	 Create following Member Functions:
 			• deposit(double amount): Adds the specified amount to the account balance.
