@@ -1,8 +1,7 @@
 /*
  * Programmer: Amna(23k-0066)
  * Desc: Create a BankAccount class managing individual accounts. Each object includes an accountId, balance, and transactionHistory (a pointer to an array). Key functions include a constructor to initialize accounts, a copy constructor, a destructor to manage memory, a display function, and an updateTransactionHistory function to modify transaction records.
-		 In the main function:
-
+	 In the main function:
 		-Create a BankAccount object with initial details and history.
 		-Copy the original account.
 		-Display both accounts.
