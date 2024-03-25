@@ -29,7 +29,6 @@ public:
     Teacher(int no, string course, string name, int age): Person(name, age){
         roomnumber = no;
         subject = course;
-        name = "talha";
     }
 };
 
